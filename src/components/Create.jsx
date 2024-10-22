@@ -44,7 +44,9 @@ const Create = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center">
       <div className="text-center mb-8 translate-y-[-150px]">
-        <h1 className="text-5xl font-bold text-gray-800">Enter The Data</h1>
+        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800">
+          Enter The Data
+        </h1>
       </div>
       <div className="bg-white shadow-md translate-y-[-100px] rounded-lg p-10 w-full max-w-lg">
         <form onSubmit={handleSubmit}>
