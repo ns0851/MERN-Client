@@ -42,7 +42,7 @@ const Create = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col items-center mt-20 justify-center">
+    <div className="min-h-screen bg-gray-100 flex flex-col items-center pt-20 justify-center">
       <div className="text-center mb-8 translate-y-[-150px]">
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800">
           Enter The Data
